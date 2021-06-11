@@ -1,0 +1,23 @@
+Web Page
+
+http://amberweb.rf.gd/
+
+Hosting Host: ftpupload.net
+
+Hosting Username: epiz_28704433
+
+Hosting Password: Uj6HdeqylaP4
+
+Port: 21
+
+Database
+
+Hostname: sql311.epizy.com
+
+Username: epiz_28704433
+
+Password: Uj6HdeqylaP4
+
+Database Name: epiz_28704433_XXX
+
+Port: 3306
